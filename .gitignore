@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Archives
+*.zip
+
+# Photoshop files
+*.psd
